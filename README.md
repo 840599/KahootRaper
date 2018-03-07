@@ -4,6 +4,7 @@ Kahoot raper is a simplified version of the well known kahoot spammer (Kahoot sm
 # Installation
 Mac: <br />
 Install homebrew: https://brew.sh/ <br />
+Open terminal and do "brew install node" <br />
 Install XAMPP: https://www.apachefriends.org/index.html <br />
 Go to Applications>htdocs and make a folder named "start" <br />
 Extract the files in that folder. <br />
